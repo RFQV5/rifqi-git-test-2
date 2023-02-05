@@ -9,5 +9,9 @@
 <body>
     <h2>what on earth is going on?!</h2>   
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad impedit dolorum voluptates, officiis iste dolore optio culpa aperiam necessitatibus odio accusamus nostrum dolor fugiat facilis architecto similique mollitia odit explicabo!
+    <ul>
+        <li>explain</li>
+        <li>yourself</li>
+    </ul>
 </body>
 </html>
